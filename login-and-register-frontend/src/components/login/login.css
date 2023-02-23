@@ -1,0 +1,83 @@
+
+.login {
+    margin-left: 185px;
+    width: 400px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.login > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.login > .button {
+    background: #04a40a;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 16px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn1{
+    width: 126px;
+    margin-left: 0px;
+    border-radius: 34px;
+    margin-top: 20px;
+    color: #1877f2;
+    border: #1877f2;
+    margin-bottom: 20px;
+
+}
+
+.btn2{
+    width: 126px;
+    margin-left: 42px;
+    border-radius: 34px;
+    margin-top: 20px;
+    color: red;
+    border: red;
+
+}
+
+
+.option-btn{
+    width: 155px;
+    height: 40px;
+    color: white;
+    margin-top: 7px;
+
+    background: transparent;
+
+    border: none;
+    border-radius: 6px;
+    margin-left: 7px;
+}
+.option-btn:hover{
+    background-color: white;
+    color: #04a40a;
+}
+
+.option{
+    margin-top: 10px;
+    background-color: #04a40a;
+    margin: 18px;
+    height: 55px;
+
+}
+
